@@ -1,0 +1,13 @@
+a{
+	color:blue;
+	&:visited{
+	color:green;
+	}
+	&:hover{
+	color:red;
+	}
+	&:active{
+	color:yellow;
+	}
+}
+
